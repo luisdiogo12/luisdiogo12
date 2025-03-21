@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=luisdiogo12&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=luisdiogo12&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdiogo12&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **luisdiogo12/luisdiogo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
